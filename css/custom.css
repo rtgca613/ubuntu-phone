@@ -1,0 +1,82 @@
+#body {
+	background-color: #2C001E;	
+}
+.navbar {
+	margin-bottom: 0;
+	background-color: #333333;
+}
+
+.btn-primary {
+	color: #fff;
+	background-color: transparent;
+	border-color: white;
+	margin-bottom: 5px;
+}
+
+#home {
+	color: white;
+}
+
+.btn-primary:hover {
+	color: #77216F;
+	background-color: #333333;
+	border-color: white;
+}
+
+.navbar-inverse {
+	background: #1a1a1a;
+	box-shadow:0 0 12px #1a0000;
+	border: 0;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar-inverse .navbar-nav li a {
+	color: #f7f7f7;
+	font-size: 16px;
+}
+
+.navbar-inverse .navbar-nav li a:hover {
+	background: #77216F
+}
+
+.dropdown-menu {
+	background: #2E2F31;
+	border-radius: 0;
+	border: 0;
+	color: black;
+}
+
+.dropdown-menu li a {
+	padding: 10px;
+}
+
+.navbar-inverse .navbar-nav .dropdown-menu li a:hover {
+	background: #2C463C;
+}
+
+#title {
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
+	font-size: 80px;
+}
+
+h1 {
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
+	font-weight: bold;
+	background-color: #2C001E;
+}
+
+#features {
+	color: white;
+}
+#intro {
+	font-size: 19px;
+}
+
+p {
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
+	font-size: 18px;
+	padding-top: 10px;
+}
